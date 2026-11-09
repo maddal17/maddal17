@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Alisher
-- 👀 I’m interested in Python, Golang
-- 📫 How to reach me alisher.email7@gmail.com or https://t.me/alisher_mh
+
